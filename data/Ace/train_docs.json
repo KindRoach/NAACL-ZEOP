@@ -1,0 +1,1173 @@
+[
+    {
+        "doc_id": "AFP_ENG_20030323.0020",
+        "sent_id": [
+            "AFP_ENG_20030323.0020",
+            189,
+            399
+        ],
+        "words": [
+            "Some",
+            "70",
+            "people",
+            "were",
+            "arrested",
+            "Saturday",
+            "as",
+            "demonstrators",
+            "clashed",
+            "with",
+            "police",
+            "at",
+            "the",
+            "end",
+            "of",
+            "a",
+            "major",
+            "peace",
+            "rally",
+            "here",
+            ",",
+            "as",
+            "at",
+            "least",
+            "200,000",
+            "anti",
+            "war",
+            "protesters",
+            "took",
+            "to",
+            "the",
+            "streets",
+            "across",
+            "the",
+            "United",
+            "States",
+            "and",
+            "Canada",
+            "."
+        ],
+        "std_words": [
+            "Some",
+            "70",
+            "people",
+            "were",
+            "arrested",
+            "Saturday",
+            "as",
+            "demonstrators",
+            "clashed",
+            "with",
+            "police",
+            "at",
+            "the",
+            "end",
+            "of",
+            "a",
+            "major",
+            "peace",
+            "rally",
+            "here",
+            ",",
+            "as",
+            "at",
+            "least",
+            "200,000",
+            "anti",
+            "war",
+            "protesters",
+            "took",
+            "to",
+            "the",
+            "streets",
+            "across",
+            "the",
+            "United",
+            "States",
+            "and",
+            "Canada",
+            "."
+        ],
+        "sent_span": [
+            [
+                189,
+                192
+            ],
+            [
+                194,
+                195
+            ],
+            [
+                197,
+                202
+            ],
+            [
+                204,
+                207
+            ],
+            [
+                209,
+                216
+            ],
+            [
+                218,
+                225
+            ],
+            [
+                227,
+                228
+            ],
+            [
+                230,
+                242
+            ],
+            [
+                244,
+                250
+            ],
+            [
+                252,
+                255
+            ],
+            [
+                257,
+                262
+            ],
+            [
+                264,
+                265
+            ],
+            [
+                267,
+                269
+            ],
+            [
+                271,
+                273
+            ],
+            [
+                275,
+                276
+            ],
+            [
+                278,
+                278
+            ],
+            [
+                280,
+                284
+            ],
+            [
+                286,
+                290
+            ],
+            [
+                292,
+                296
+            ],
+            [
+                298,
+                301
+            ],
+            [
+                302,
+                302
+            ],
+            [
+                304,
+                305
+            ],
+            [
+                307,
+                308
+            ],
+            [
+                310,
+                314
+            ],
+            [
+                316,
+                322
+            ],
+            [
+                324,
+                327
+            ],
+            [
+                329,
+                331
+            ],
+            [
+                333,
+                342
+            ],
+            [
+                344,
+                347
+            ],
+            [
+                349,
+                350
+            ],
+            [
+                352,
+                354
+            ],
+            [
+                356,
+                362
+            ],
+            [
+                364,
+                369
+            ],
+            [
+                371,
+                373
+            ],
+            [
+                375,
+                380
+            ],
+            [
+                382,
+                387
+            ],
+            [
+                389,
+                391
+            ],
+            [
+                393,
+                398
+            ],
+            [
+                399,
+                399
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030323.0020-E113-141",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 0,
+                "end": 2,
+                "span": [
+                    189,
+                    202
+                ],
+                "extracted-span": [
+                    189,
+                    202
+                ],
+                "text": "Some 70 people",
+                "extracted-text": "Some 70 people",
+                "role": "Person"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E118-176",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 7,
+                "end": 7,
+                "span": [
+                    230,
+                    242
+                ],
+                "extracted-span": [
+                    230,
+                    242
+                ],
+                "text": "demonstrators",
+                "extracted-text": "demonstrators",
+                "role": "Target"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E3-180",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 10,
+                "end": 10,
+                "span": [
+                    257,
+                    262
+                ],
+                "extracted-span": [
+                    257,
+                    262
+                ],
+                "text": "police",
+                "extracted-text": "police",
+                "role": "Target"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E23-172",
+                "type": "PRO",
+                "entity-type": "GPE:Population-Center",
+                "start": 19,
+                "end": 19,
+                "span": [
+                    298,
+                    301
+                ],
+                "extracted-span": [
+                    298,
+                    301
+                ],
+                "text": "here",
+                "extracted-text": "here",
+                "role": "Place"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E121-184",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 22,
+                "end": 27,
+                "span": [
+                    307,
+                    342
+                ],
+                "extracted-span": [
+                    307,
+                    342
+                ],
+                "text": "at least 200,000 anti-war protesters",
+                "extracted-text": "at least 200,000 anti war protesters",
+                "role": "Person"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E122-185",
+                "type": "NOM",
+                "entity-type": "FAC:Path",
+                "start": 30,
+                "end": 37,
+                "span": [
+                    352,
+                    398
+                ],
+                "extracted-span": [
+                    352,
+                    398
+                ],
+                "text": "the streets across the United States and Canada",
+                "extracted-text": "the streets across the United States and Canada",
+                "role": "Destination"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E46-187",
+                "type": "NAM",
+                "entity-type": "GPE:Nation",
+                "start": 33,
+                "end": 35,
+                "span": [
+                    371,
+                    387
+                ],
+                "extracted-span": [
+                    371,
+                    387
+                ],
+                "text": "the United States",
+                "extracted-text": "the United States"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E123-186",
+                "type": "NAM",
+                "entity-type": "GPE:Nation",
+                "start": 37,
+                "end": 37,
+                "span": [
+                    393,
+                    398
+                ],
+                "extracted-span": [
+                    393,
+                    398
+                ],
+                "text": "Canada",
+                "extracted-text": "Canada"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030323.0020-EV1-1",
+                "event_type": "Justice:Arrest-Jail",
+                "trigger": {
+                    "start": 4,
+                    "end": 4,
+                    "text": "arrested",
+                    "span": [
+                        209,
+                        216
+                    ],
+                    "extracted-text": "arrested",
+                    "extracted-span": [
+                        209,
+                        216
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E113-141",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 0,
+                        "end": 2,
+                        "span": [
+                            189,
+                            202
+                        ],
+                        "extracted-span": [
+                            189,
+                            202
+                        ],
+                        "text": "Some 70 people",
+                        "extracted-text": "Some 70 people",
+                        "role": "Person"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E23-172",
+                        "type": "PRO",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 19,
+                        "end": 19,
+                        "span": [
+                            298,
+                            301
+                        ],
+                        "extracted-span": [
+                            298,
+                            301
+                        ],
+                        "text": "here",
+                        "extracted-text": "here",
+                        "role": "Place"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-EV2-1",
+                "event_type": "Conflict:Attack",
+                "trigger": {
+                    "start": 8,
+                    "end": 8,
+                    "text": "clashed",
+                    "span": [
+                        244,
+                        250
+                    ],
+                    "extracted-text": "clashed",
+                    "extracted-span": [
+                        244,
+                        250
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E118-176",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 7,
+                        "end": 7,
+                        "span": [
+                            230,
+                            242
+                        ],
+                        "extracted-span": [
+                            230,
+                            242
+                        ],
+                        "text": "demonstrators",
+                        "extracted-text": "demonstrators",
+                        "role": "Target"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E3-180",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 10,
+                        "end": 10,
+                        "span": [
+                            257,
+                            262
+                        ],
+                        "extracted-span": [
+                            257,
+                            262
+                        ],
+                        "text": "police",
+                        "extracted-text": "police",
+                        "role": "Target"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E23-172",
+                        "type": "PRO",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 19,
+                        "end": 19,
+                        "span": [
+                            298,
+                            301
+                        ],
+                        "extracted-span": [
+                            298,
+                            301
+                        ],
+                        "text": "here",
+                        "extracted-text": "here",
+                        "role": "Place"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E118-176",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 7,
+                        "end": 7,
+                        "span": [
+                            230,
+                            242
+                        ],
+                        "extracted-span": [
+                            230,
+                            242
+                        ],
+                        "text": "demonstrators",
+                        "extracted-text": "demonstrators",
+                        "role": "Target"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E3-180",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 10,
+                        "end": 10,
+                        "span": [
+                            257,
+                            262
+                        ],
+                        "extracted-span": [
+                            257,
+                            262
+                        ],
+                        "text": "police",
+                        "extracted-text": "police",
+                        "role": "Target"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-EV3-1",
+                "event_type": "Conflict:Demonstrate",
+                "trigger": {
+                    "start": 18,
+                    "end": 18,
+                    "text": "rally",
+                    "span": [
+                        292,
+                        296
+                    ],
+                    "extracted-text": "rally",
+                    "extracted-span": [
+                        292,
+                        296
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E23-172",
+                        "type": "PRO",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 19,
+                        "end": 19,
+                        "span": [
+                            298,
+                            301
+                        ],
+                        "extracted-span": [
+                            298,
+                            301
+                        ],
+                        "text": "here",
+                        "extracted-text": "here",
+                        "role": "Place"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E121-184",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 22,
+                        "end": 27,
+                        "span": [
+                            307,
+                            342
+                        ],
+                        "extracted-span": [
+                            307,
+                            342
+                        ],
+                        "text": "at least 200,000 anti-war protesters",
+                        "extracted-text": "at least 200,000 anti war protesters",
+                        "role": "Person"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-EV25-1",
+                "event_type": "Movement:Transport",
+                "trigger": {
+                    "start": 28,
+                    "end": 28,
+                    "text": "took",
+                    "span": [
+                        344,
+                        347
+                    ],
+                    "extracted-text": "took",
+                    "extracted-span": [
+                        344,
+                        347
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E121-184",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 22,
+                        "end": 27,
+                        "span": [
+                            307,
+                            342
+                        ],
+                        "extracted-span": [
+                            307,
+                            342
+                        ],
+                        "text": "at least 200,000 anti-war protesters",
+                        "extracted-text": "at least 200,000 anti war protesters",
+                        "role": "Person"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E122-185",
+                        "type": "NOM",
+                        "entity-type": "FAC:Path",
+                        "start": 30,
+                        "end": 37,
+                        "span": [
+                            352,
+                            398
+                        ],
+                        "extracted-span": [
+                            352,
+                            398
+                        ],
+                        "text": "the streets across the United States and Canada",
+                        "extracted-text": "the streets across the United States and Canada",
+                        "role": "Destination"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "doc_id": "AFP_ENG_20030323.0020",
+        "sent_id": [
+            "AFP_ENG_20030323.0020",
+            402,
+            587
+        ],
+        "words": [
+            "For",
+            "the",
+            "most",
+            "part",
+            "the",
+            "marches",
+            "went",
+            "off",
+            "peacefully",
+            ",",
+            "but",
+            "in",
+            "New",
+            "York",
+            "a",
+            "small",
+            "group",
+            "of",
+            "protesters",
+            "were",
+            "arrested",
+            "after",
+            "they",
+            "refused",
+            "to",
+            "go",
+            "home",
+            "at",
+            "the",
+            "end",
+            "of",
+            "their",
+            "rally",
+            ",",
+            "police",
+            "sources",
+            "said",
+            "."
+        ],
+        "std_words": [
+            "For",
+            "the",
+            "most",
+            "part",
+            "the",
+            "marches",
+            "went",
+            "off",
+            "peacefully",
+            ",",
+            "but",
+            "in",
+            "New",
+            "York",
+            "a",
+            "small",
+            "group",
+            "of",
+            "protesters",
+            "were",
+            "arrested",
+            "after",
+            "they",
+            "refused",
+            "to",
+            "go",
+            "home",
+            "at",
+            "the",
+            "end",
+            "of",
+            "their",
+            "rally",
+            ",",
+            "police",
+            "sources",
+            "said",
+            "."
+        ],
+        "sent_span": [
+            [
+                402,
+                404
+            ],
+            [
+                406,
+                408
+            ],
+            [
+                410,
+                413
+            ],
+            [
+                415,
+                418
+            ],
+            [
+                420,
+                422
+            ],
+            [
+                424,
+                430
+            ],
+            [
+                432,
+                435
+            ],
+            [
+                437,
+                439
+            ],
+            [
+                441,
+                450
+            ],
+            [
+                451,
+                451
+            ],
+            [
+                453,
+                455
+            ],
+            [
+                457,
+                458
+            ],
+            [
+                460,
+                462
+            ],
+            [
+                464,
+                467
+            ],
+            [
+                469,
+                469
+            ],
+            [
+                471,
+                475
+            ],
+            [
+                477,
+                481
+            ],
+            [
+                483,
+                484
+            ],
+            [
+                486,
+                495
+            ],
+            [
+                497,
+                500
+            ],
+            [
+                502,
+                509
+            ],
+            [
+                511,
+                515
+            ],
+            [
+                517,
+                520
+            ],
+            [
+                522,
+                528
+            ],
+            [
+                530,
+                531
+            ],
+            [
+                533,
+                534
+            ],
+            [
+                536,
+                539
+            ],
+            [
+                541,
+                542
+            ],
+            [
+                544,
+                546
+            ],
+            [
+                548,
+                550
+            ],
+            [
+                552,
+                553
+            ],
+            [
+                555,
+                559
+            ],
+            [
+                561,
+                565
+            ],
+            [
+                566,
+                566
+            ],
+            [
+                568,
+                573
+            ],
+            [
+                575,
+                581
+            ],
+            [
+                583,
+                586
+            ],
+            [
+                587,
+                587
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030323.0020-E23-188",
+                "type": "NAM",
+                "entity-type": "GPE:Population-Center",
+                "start": 12,
+                "end": 13,
+                "span": [
+                    460,
+                    467
+                ],
+                "extracted-span": [
+                    460,
+                    467
+                ],
+                "text": "New York",
+                "extracted-text": "New York",
+                "role": "Place"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E84-106",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 14,
+                "end": 18,
+                "span": [
+                    469,
+                    495
+                ],
+                "extracted-span": [
+                    469,
+                    495
+                ],
+                "text": "a small group of protesters",
+                "extracted-text": "a small group of protesters",
+                "role": "Person"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E120-182",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 18,
+                "end": 18,
+                "span": [
+                    486,
+                    495
+                ],
+                "extracted-span": [
+                    486,
+                    495
+                ],
+                "text": "protesters",
+                "extracted-text": "protesters"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E125-189",
+                "type": "PRO",
+                "entity-type": "PER:Group",
+                "start": 22,
+                "end": 22,
+                "span": [
+                    517,
+                    520
+                ],
+                "extracted-span": [
+                    517,
+                    520
+                ],
+                "text": "they",
+                "extracted-text": "they"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E125-190",
+                "type": "PRO",
+                "entity-type": "PER:Group",
+                "start": 31,
+                "end": 31,
+                "span": [
+                    555,
+                    559
+                ],
+                "extracted-span": [
+                    555,
+                    559
+                ],
+                "text": "their",
+                "extracted-text": "their",
+                "role": "Entity"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E2-193",
+                "type": "NOM",
+                "entity-type": "ORG:Government",
+                "start": 34,
+                "end": 34,
+                "span": [
+                    568,
+                    573
+                ],
+                "extracted-span": [
+                    568,
+                    573
+                ],
+                "text": "police",
+                "extracted-text": "police"
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-E126-191",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 34,
+                "end": 35,
+                "span": [
+                    568,
+                    581
+                ],
+                "extracted-span": [
+                    568,
+                    581
+                ],
+                "text": "police sources",
+                "extracted-text": "police sources"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030323.0020-EV1-2",
+                "event_type": "Justice:Arrest-Jail",
+                "trigger": {
+                    "start": 20,
+                    "end": 20,
+                    "text": "arrested",
+                    "span": [
+                        502,
+                        509
+                    ],
+                    "extracted-text": "arrested",
+                    "extracted-span": [
+                        502,
+                        509
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E84-106",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 14,
+                        "end": 18,
+                        "span": [
+                            469,
+                            495
+                        ],
+                        "extracted-span": [
+                            469,
+                            495
+                        ],
+                        "text": "a small group of protesters",
+                        "extracted-text": "a small group of protesters",
+                        "role": "Person"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E23-188",
+                        "type": "NAM",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 12,
+                        "end": 13,
+                        "span": [
+                            460,
+                            467
+                        ],
+                        "extracted-span": [
+                            460,
+                            467
+                        ],
+                        "text": "New York",
+                        "extracted-text": "New York",
+                        "role": "Place"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-EV3-2",
+                "event_type": "Conflict:Demonstrate",
+                "trigger": {
+                    "start": 32,
+                    "end": 32,
+                    "text": "rally",
+                    "span": [
+                        561,
+                        565
+                    ],
+                    "extracted-text": "rally",
+                    "extracted-span": [
+                        561,
+                        565
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030323.0020-E23-188",
+                        "type": "NAM",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 12,
+                        "end": 13,
+                        "span": [
+                            460,
+                            467
+                        ],
+                        "extracted-span": [
+                            460,
+                            467
+                        ],
+                        "text": "New York",
+                        "extracted-text": "New York",
+                        "role": "Place"
+                    },
+                    {
+                        "id": "AFP_ENG_20030323.0020-E125-190",
+                        "type": "PRO",
+                        "entity-type": "PER:Group",
+                        "start": 31,
+                        "end": 31,
+                        "span": [
+                            555,
+                            559
+                        ],
+                        "extracted-span": [
+                            555,
+                            559
+                        ],
+                        "text": "their",
+                        "extracted-text": "their",
+                        "role": "Entity"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030323.0020-EV4-1",
+                "event_type": "Conflict:Demonstrate",
+                "trigger": {
+                    "start": 5,
+                    "end": 5,
+                    "text": "marches",
+                    "span": [
+                        424,
+                        430
+                    ],
+                    "extracted-text": "marches",
+                    "extracted-span": [
+                        424,
+                        430
+                    ]
+                },
+                "arguments": []
+            }
+        ]
+    }
+]

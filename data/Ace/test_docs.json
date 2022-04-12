@@ -1,0 +1,839 @@
+[
+    {
+        "doc_id": "AFP_ENG_20030401.0476",
+        "sent_id": [
+            "AFP_ENG_20030401.0476",
+            142,
+            337
+        ],
+        "words": [
+            "British",
+            "Chancellor",
+            "of",
+            "the",
+            "Exchequer",
+            "Gordon",
+            "Brown",
+            "on",
+            "Tuesday",
+            "named",
+            "the",
+            "current",
+            "head",
+            "of",
+            "the",
+            "country",
+            "'s",
+            "energy",
+            "regulator",
+            "as",
+            "the",
+            "new",
+            "chairman",
+            "of",
+            "finance",
+            "watchdog",
+            "the",
+            "Financial",
+            "Services",
+            "Authority",
+            "(",
+            "FSA",
+            ")",
+            "."
+        ],
+        "std_words": [
+            "British",
+            "Chancellor",
+            "of",
+            "the",
+            "Exchequer",
+            "Gordon",
+            "Brown",
+            "on",
+            "Tuesday",
+            "named",
+            "the",
+            "current",
+            "head",
+            "of",
+            "the",
+            "country",
+            "'s",
+            "energy",
+            "regulator",
+            "as",
+            "the",
+            "new",
+            "chairman",
+            "of",
+            "finance",
+            "watchdog",
+            "the",
+            "Financial",
+            "Services",
+            "Authority",
+            "-LRB-",
+            "FSA",
+            "-RRB-",
+            "."
+        ],
+        "sent_span": [
+            [
+                142,
+                148
+            ],
+            [
+                150,
+                159
+            ],
+            [
+                161,
+                162
+            ],
+            [
+                164,
+                166
+            ],
+            [
+                168,
+                176
+            ],
+            [
+                178,
+                183
+            ],
+            [
+                185,
+                189
+            ],
+            [
+                191,
+                192
+            ],
+            [
+                194,
+                200
+            ],
+            [
+                202,
+                206
+            ],
+            [
+                208,
+                210
+            ],
+            [
+                212,
+                218
+            ],
+            [
+                220,
+                223
+            ],
+            [
+                225,
+                226
+            ],
+            [
+                228,
+                230
+            ],
+            [
+                232,
+                238
+            ],
+            [
+                239,
+                240
+            ],
+            [
+                242,
+                247
+            ],
+            [
+                249,
+                257
+            ],
+            [
+                259,
+                260
+            ],
+            [
+                262,
+                264
+            ],
+            [
+                266,
+                268
+            ],
+            [
+                270,
+                277
+            ],
+            [
+                279,
+                280
+            ],
+            [
+                282,
+                288
+            ],
+            [
+                290,
+                297
+            ],
+            [
+                299,
+                301
+            ],
+            [
+                303,
+                311
+            ],
+            [
+                313,
+                320
+            ],
+            [
+                322,
+                330
+            ],
+            [
+                332,
+                332
+            ],
+            [
+                333,
+                335
+            ],
+            [
+                336,
+                336
+            ],
+            [
+                337,
+                337
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030401.0476-E21-35",
+                "type": "NAM",
+                "entity-type": "GPE:Nation",
+                "start": 0,
+                "end": 0,
+                "span": [
+                    142,
+                    148
+                ],
+                "extracted-span": [
+                    142,
+                    148
+                ],
+                "text": "British",
+                "extracted-text": "British"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E20-36",
+                "type": "NOM",
+                "entity-type": "PER:Individual",
+                "start": 0,
+                "end": 4,
+                "span": [
+                    142,
+                    176
+                ],
+                "extracted-span": [
+                    142,
+                    176
+                ],
+                "text": "British Chancellor of the Exchequer",
+                "extracted-text": "British Chancellor of the Exchequer"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E20-34",
+                "type": "NAM",
+                "entity-type": "PER:Individual",
+                "start": 0,
+                "end": 6,
+                "span": [
+                    142,
+                    189
+                ],
+                "extracted-span": [
+                    142,
+                    189
+                ],
+                "text": "British Chancellor of the Exchequer Gordon Brown",
+                "extracted-text": "British Chancellor of the Exchequer Gordon Brown"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E16-29",
+                "type": "NAM",
+                "entity-type": "ORG:Government",
+                "start": 3,
+                "end": 4,
+                "span": [
+                    164,
+                    176
+                ],
+                "extracted-span": [
+                    164,
+                    176
+                ],
+                "text": "the Exchequer",
+                "extracted-text": "the Exchequer"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E5-37",
+                "type": "NOM",
+                "entity-type": "PER:Individual",
+                "start": 10,
+                "end": 18,
+                "span": [
+                    208,
+                    257
+                ],
+                "extracted-span": [
+                    208,
+                    257
+                ],
+                "text": "the current head of the country's energy regulator",
+                "extracted-text": "the current head of the country 's energy regulator",
+                "role": "Person"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E21-38",
+                "type": "NOM",
+                "entity-type": "GPE:Nation",
+                "start": 14,
+                "end": 15,
+                "span": [
+                    228,
+                    238
+                ],
+                "extracted-span": [
+                    228,
+                    238
+                ],
+                "text": "the country",
+                "extracted-text": "the country"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E25-39",
+                "type": "NOM",
+                "entity-type": "ORG:Government",
+                "start": 14,
+                "end": 18,
+                "span": [
+                    228,
+                    257
+                ],
+                "extracted-span": [
+                    228,
+                    257
+                ],
+                "text": "the country's energy regulator",
+                "extracted-text": "the country 's energy regulator"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E5-40",
+                "type": "NOM",
+                "entity-type": "PER:Individual",
+                "start": 20,
+                "end": 31,
+                "span": [
+                    262,
+                    335
+                ],
+                "extracted-span": [
+                    262,
+                    335
+                ],
+                "text": "the new chairman of finance watchdog the Financial Services Authority (FSA",
+                "extracted-text": "the new chairman of finance watchdog the Financial Services Authority ( FSA"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E15-42",
+                "type": "NOM",
+                "entity-type": "ORG:Government",
+                "start": 24,
+                "end": 25,
+                "span": [
+                    282,
+                    297
+                ],
+                "extracted-span": [
+                    282,
+                    297
+                ],
+                "text": "finance watchdog",
+                "extracted-text": "finance watchdog"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E15-41",
+                "type": "NAM",
+                "entity-type": "ORG:Government",
+                "start": 26,
+                "end": 29,
+                "span": [
+                    299,
+                    330
+                ],
+                "extracted-span": [
+                    299,
+                    330
+                ],
+                "text": "the Financial Services Authority",
+                "extracted-text": "the Financial Services Authority"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030401.0476-EV7-1",
+                "event_type": "Personnel:Nominate",
+                "trigger": {
+                    "start": 9,
+                    "end": 9,
+                    "text": "named",
+                    "span": [
+                        202,
+                        206
+                    ],
+                    "extracted-text": "named",
+                    "extracted-span": [
+                        202,
+                        206
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030401.0476-E5-37",
+                        "type": "NOM",
+                        "entity-type": "PER:Individual",
+                        "start": 10,
+                        "end": 18,
+                        "span": [
+                            208,
+                            257
+                        ],
+                        "extracted-span": [
+                            208,
+                            257
+                        ],
+                        "text": "the current head of the country's energy regulator",
+                        "extracted-text": "the current head of the country 's energy regulator",
+                        "role": "Person"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "doc_id": "AFP_ENG_20030401.0476",
+        "sent_id": [
+            "AFP_ENG_20030401.0476",
+            340,
+            504
+        ],
+        "words": [
+            "Former",
+            "senior",
+            "banker",
+            "Callum",
+            "McCarthy",
+            "begins",
+            "what",
+            "is",
+            "one",
+            "of",
+            "the",
+            "most",
+            "important",
+            "jobs",
+            "in",
+            "London",
+            "'s",
+            "financial",
+            "world",
+            "in",
+            "September",
+            ",",
+            "when",
+            "incumbent",
+            "Howard",
+            "Davies",
+            "steps-down",
+            "."
+        ],
+        "std_words": [
+            "Former",
+            "senior",
+            "banker",
+            "Callum",
+            "McCarthy",
+            "begins",
+            "what",
+            "is",
+            "one",
+            "of",
+            "the",
+            "most",
+            "important",
+            "jobs",
+            "in",
+            "London",
+            "'s",
+            "financial",
+            "world",
+            "in",
+            "September",
+            ",",
+            "when",
+            "incumbent",
+            "Howard",
+            "Davies",
+            "steps-down",
+            "."
+        ],
+        "sent_span": [
+            [
+                340,
+                345
+            ],
+            [
+                347,
+                352
+            ],
+            [
+                354,
+                359
+            ],
+            [
+                361,
+                366
+            ],
+            [
+                368,
+                375
+            ],
+            [
+                377,
+                382
+            ],
+            [
+                384,
+                387
+            ],
+            [
+                389,
+                390
+            ],
+            [
+                392,
+                394
+            ],
+            [
+                396,
+                397
+            ],
+            [
+                399,
+                401
+            ],
+            [
+                403,
+                406
+            ],
+            [
+                408,
+                416
+            ],
+            [
+                418,
+                421
+            ],
+            [
+                423,
+                424
+            ],
+            [
+                426,
+                431
+            ],
+            [
+                432,
+                433
+            ],
+            [
+                435,
+                443
+            ],
+            [
+                445,
+                449
+            ],
+            [
+                451,
+                452
+            ],
+            [
+                454,
+                462
+            ],
+            [
+                463,
+                463
+            ],
+            [
+                465,
+                468
+            ],
+            [
+                470,
+                478
+            ],
+            [
+                480,
+                485
+            ],
+            [
+                487,
+                492
+            ],
+            [
+                494,
+                503
+            ],
+            [
+                504,
+                504
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030401.0476-E5-44",
+                "type": "NOM",
+                "entity-type": "PER:Individual",
+                "start": 0,
+                "end": 2,
+                "span": [
+                    340,
+                    359
+                ],
+                "extracted-span": [
+                    340,
+                    359
+                ],
+                "text": "Former senior banker",
+                "extracted-text": "Former senior banker"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E5-43",
+                "type": "NAM",
+                "entity-type": "PER:Individual",
+                "start": 0,
+                "end": 4,
+                "span": [
+                    340,
+                    375
+                ],
+                "extracted-span": [
+                    340,
+                    375
+                ],
+                "text": "Former senior banker Callum McCarthy",
+                "extracted-text": "Former senior banker Callum McCarthy",
+                "role": "Person"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E14-45",
+                "type": "NAM",
+                "entity-type": "GPE:Population-Center",
+                "start": 15,
+                "end": 15,
+                "span": [
+                    426,
+                    431
+                ],
+                "extracted-span": [
+                    426,
+                    431
+                ],
+                "text": "London",
+                "extracted-text": "London",
+                "role": "Place"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E1-47",
+                "type": "NOM",
+                "entity-type": "PER:Individual",
+                "start": 23,
+                "end": 23,
+                "span": [
+                    470,
+                    478
+                ],
+                "extracted-span": [
+                    470,
+                    478
+                ],
+                "text": "incumbent",
+                "extracted-text": "incumbent"
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-E1-46",
+                "type": "NAM",
+                "entity-type": "PER:Individual",
+                "start": 23,
+                "end": 25,
+                "span": [
+                    470,
+                    492
+                ],
+                "extracted-span": [
+                    470,
+                    492
+                ],
+                "text": "incumbent Howard Davies",
+                "extracted-text": "incumbent Howard Davies",
+                "role": "Person"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030401.0476-EV1-1",
+                "event_type": "Personnel:Start-Position",
+                "trigger": {
+                    "start": 5,
+                    "end": 5,
+                    "text": "begins",
+                    "span": [
+                        377,
+                        382
+                    ],
+                    "extracted-text": "begins",
+                    "extracted-span": [
+                        377,
+                        382
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030401.0476-E5-43",
+                        "type": "NAM",
+                        "entity-type": "PER:Individual",
+                        "start": 0,
+                        "end": 4,
+                        "span": [
+                            340,
+                            375
+                        ],
+                        "extracted-span": [
+                            340,
+                            375
+                        ],
+                        "text": "Former senior banker Callum McCarthy",
+                        "extracted-text": "Former senior banker Callum McCarthy",
+                        "role": "Person"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-EV2-1",
+                "event_type": "Personnel:End-Position",
+                "trigger": {
+                    "start": 0,
+                    "end": 0,
+                    "text": "Former",
+                    "span": [
+                        340,
+                        345
+                    ],
+                    "extracted-text": "Former",
+                    "extracted-span": [
+                        340,
+                        345
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030401.0476-E5-43",
+                        "type": "NAM",
+                        "entity-type": "PER:Individual",
+                        "start": 0,
+                        "end": 4,
+                        "span": [
+                            340,
+                            375
+                        ],
+                        "extracted-span": [
+                            340,
+                            375
+                        ],
+                        "text": "Former senior banker Callum McCarthy",
+                        "extracted-text": "Former senior banker Callum McCarthy",
+                        "role": "Person"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030401.0476-EV3-1",
+                "event_type": "Personnel:End-Position",
+                "trigger": {
+                    "start": 26,
+                    "end": 26,
+                    "text": "steps down",
+                    "span": [
+                        494,
+                        503
+                    ],
+                    "extracted-text": "steps-down",
+                    "extracted-span": [
+                        494,
+                        503
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030401.0476-E1-46",
+                        "type": "NAM",
+                        "entity-type": "PER:Individual",
+                        "start": 23,
+                        "end": 25,
+                        "span": [
+                            470,
+                            492
+                        ],
+                        "extracted-span": [
+                            470,
+                            492
+                        ],
+                        "text": "incumbent Howard Davies",
+                        "extracted-text": "incumbent Howard Davies",
+                        "role": "Person"
+                    },
+                    {
+                        "id": "AFP_ENG_20030401.0476-E14-45",
+                        "type": "NAM",
+                        "entity-type": "GPE:Population-Center",
+                        "start": 15,
+                        "end": 15,
+                        "span": [
+                            426,
+                            431
+                        ],
+                        "extracted-span": [
+                            426,
+                            431
+                        ],
+                        "text": "London",
+                        "extracted-text": "London",
+                        "role": "Place"
+                    }
+                ]
+            }
+        ]
+    }
+]

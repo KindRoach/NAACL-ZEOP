@@ -1,0 +1,713 @@
+[
+    {
+        "doc_id": "AFP_ENG_20030304.0250",
+        "sent_id": [
+            "AFP_ENG_20030304.0250",
+            181,
+            354
+        ],
+        "words": [
+            "At",
+            "least",
+            "19",
+            "people",
+            "were",
+            "killed",
+            "and",
+            "114",
+            "people",
+            "were",
+            "wounded",
+            "in",
+            "Tuesday",
+            "'s",
+            "southern",
+            "Philippines",
+            "airport",
+            "blast",
+            ",",
+            "officials",
+            "said",
+            ",",
+            "but",
+            "reports",
+            "said",
+            "the",
+            "death",
+            "toll",
+            "could",
+            "climb",
+            "to",
+            "30",
+            "."
+        ],
+        "std_words": [
+            "At",
+            "least",
+            "19",
+            "people",
+            "were",
+            "killed",
+            "and",
+            "114",
+            "people",
+            "were",
+            "wounded",
+            "in",
+            "Tuesday",
+            "'s",
+            "southern",
+            "Philippines",
+            "airport",
+            "blast",
+            ",",
+            "officials",
+            "said",
+            ",",
+            "but",
+            "reports",
+            "said",
+            "the",
+            "death",
+            "toll",
+            "could",
+            "climb",
+            "to",
+            "30",
+            "."
+        ],
+        "sent_span": [
+            [
+                181,
+                182
+            ],
+            [
+                184,
+                188
+            ],
+            [
+                190,
+                191
+            ],
+            [
+                193,
+                198
+            ],
+            [
+                200,
+                203
+            ],
+            [
+                205,
+                210
+            ],
+            [
+                212,
+                214
+            ],
+            [
+                216,
+                218
+            ],
+            [
+                220,
+                225
+            ],
+            [
+                227,
+                230
+            ],
+            [
+                232,
+                238
+            ],
+            [
+                240,
+                241
+            ],
+            [
+                243,
+                249
+            ],
+            [
+                250,
+                251
+            ],
+            [
+                253,
+                260
+            ],
+            [
+                262,
+                272
+            ],
+            [
+                274,
+                280
+            ],
+            [
+                282,
+                286
+            ],
+            [
+                287,
+                287
+            ],
+            [
+                289,
+                297
+            ],
+            [
+                299,
+                302
+            ],
+            [
+                303,
+                303
+            ],
+            [
+                305,
+                307
+            ],
+            [
+                309,
+                315
+            ],
+            [
+                317,
+                320
+            ],
+            [
+                322,
+                324
+            ],
+            [
+                326,
+                330
+            ],
+            [
+                332,
+                335
+            ],
+            [
+                337,
+                341
+            ],
+            [
+                343,
+                347
+            ],
+            [
+                349,
+                350
+            ],
+            [
+                352,
+                353
+            ],
+            [
+                354,
+                354
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030304.0250-E24-29",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 0,
+                "end": 3,
+                "span": [
+                    181,
+                    198
+                ],
+                "extracted-span": [
+                    181,
+                    198
+                ],
+                "text": "At least 19 people",
+                "extracted-text": "At least 19 people",
+                "role": "Victim"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E25-30",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 7,
+                "end": 8,
+                "span": [
+                    216,
+                    225
+                ],
+                "extracted-span": [
+                    216,
+                    225
+                ],
+                "text": "114 people",
+                "extracted-text": "114 people",
+                "role": "Victim"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E28-33",
+                "type": "NOM",
+                "entity-type": "LOC:Region-General",
+                "start": 14,
+                "end": 15,
+                "span": [
+                    253,
+                    272
+                ],
+                "extracted-span": [
+                    253,
+                    272
+                ],
+                "text": "southern Philippines",
+                "extracted-text": "southern Philippines"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E26-32",
+                "type": "NOM",
+                "entity-type": "FAC:Airport",
+                "start": 14,
+                "end": 16,
+                "span": [
+                    253,
+                    280
+                ],
+                "extracted-span": [
+                    253,
+                    280
+                ],
+                "text": "southern Philippines airport",
+                "extracted-text": "southern Philippines airport",
+                "role": "Place"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E29-34",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 19,
+                "end": 19,
+                "span": [
+                    289,
+                    297
+                ],
+                "extracted-span": [
+                    289,
+                    297
+                ],
+                "text": "officials",
+                "extracted-text": "officials"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030304.0250-EV1-1",
+                "event_type": "Life:Die",
+                "trigger": {
+                    "start": 5,
+                    "end": 5,
+                    "text": "killed",
+                    "span": [
+                        205,
+                        210
+                    ],
+                    "extracted-text": "killed",
+                    "extracted-span": [
+                        205,
+                        210
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030304.0250-E24-29",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 0,
+                        "end": 3,
+                        "span": [
+                            181,
+                            198
+                        ],
+                        "extracted-span": [
+                            181,
+                            198
+                        ],
+                        "text": "At least 19 people",
+                        "extracted-text": "At least 19 people",
+                        "role": "Victim"
+                    },
+                    {
+                        "id": "AFP_ENG_20030304.0250-E26-32",
+                        "type": "NOM",
+                        "entity-type": "FAC:Airport",
+                        "start": 14,
+                        "end": 16,
+                        "span": [
+                            253,
+                            280
+                        ],
+                        "extracted-span": [
+                            253,
+                            280
+                        ],
+                        "text": "southern Philippines airport",
+                        "extracted-text": "southern Philippines airport",
+                        "role": "Place"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-EV2-4",
+                "event_type": "Life:Injure",
+                "trigger": {
+                    "start": 10,
+                    "end": 10,
+                    "text": "wounded",
+                    "span": [
+                        232,
+                        238
+                    ],
+                    "extracted-text": "wounded",
+                    "extracted-span": [
+                        232,
+                        238
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030304.0250-E25-30",
+                        "type": "NOM",
+                        "entity-type": "PER:Group",
+                        "start": 7,
+                        "end": 8,
+                        "span": [
+                            216,
+                            225
+                        ],
+                        "extracted-span": [
+                            216,
+                            225
+                        ],
+                        "text": "114 people",
+                        "extracted-text": "114 people",
+                        "role": "Victim"
+                    },
+                    {
+                        "id": "AFP_ENG_20030304.0250-E26-32",
+                        "type": "NOM",
+                        "entity-type": "FAC:Airport",
+                        "start": 14,
+                        "end": 16,
+                        "span": [
+                            253,
+                            280
+                        ],
+                        "extracted-span": [
+                            253,
+                            280
+                        ],
+                        "text": "southern Philippines airport",
+                        "extracted-text": "southern Philippines airport",
+                        "role": "Place"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-EV3-1",
+                "event_type": "Conflict:Attack",
+                "trigger": {
+                    "start": 17,
+                    "end": 17,
+                    "text": "blast",
+                    "span": [
+                        282,
+                        286
+                    ],
+                    "extracted-text": "blast",
+                    "extracted-span": [
+                        282,
+                        286
+                    ]
+                },
+                "arguments": [
+                    {
+                        "id": "AFP_ENG_20030304.0250-E26-32",
+                        "type": "NOM",
+                        "entity-type": "FAC:Airport",
+                        "start": 14,
+                        "end": 16,
+                        "span": [
+                            253,
+                            280
+                        ],
+                        "extracted-span": [
+                            253,
+                            280
+                        ],
+                        "text": "southern Philippines airport",
+                        "extracted-text": "southern Philippines airport",
+                        "role": "Place"
+                    }
+                ]
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-EV4-1",
+                "event_type": "Life:Die",
+                "trigger": {
+                    "start": 26,
+                    "end": 26,
+                    "text": "death",
+                    "span": [
+                        326,
+                        330
+                    ],
+                    "extracted-text": "death",
+                    "extracted-span": [
+                        326,
+                        330
+                    ]
+                },
+                "arguments": []
+            }
+        ]
+    },
+    {
+        "doc_id": "AFP_ENG_20030304.0250",
+        "sent_id": [
+            "AFP_ENG_20030304.0250",
+            357,
+            490
+        ],
+        "words": [
+            "Radio",
+            "station",
+            "DXDC",
+            "placed",
+            "the",
+            "death",
+            "toll",
+            "at",
+            "30",
+            ",",
+            "without",
+            "giving",
+            "a",
+            "source",
+            "for",
+            "the",
+            "figure",
+            ",",
+            "which",
+            "officials",
+            "could",
+            "not",
+            "immediately",
+            "confirm",
+            "."
+        ],
+        "std_words": [
+            "Radio",
+            "station",
+            "DXDC",
+            "placed",
+            "the",
+            "death",
+            "toll",
+            "at",
+            "30",
+            ",",
+            "without",
+            "giving",
+            "a",
+            "source",
+            "for",
+            "the",
+            "figure",
+            ",",
+            "which",
+            "officials",
+            "could",
+            "not",
+            "immediately",
+            "confirm",
+            "."
+        ],
+        "sent_span": [
+            [
+                357,
+                361
+            ],
+            [
+                363,
+                369
+            ],
+            [
+                371,
+                374
+            ],
+            [
+                376,
+                381
+            ],
+            [
+                383,
+                385
+            ],
+            [
+                387,
+                391
+            ],
+            [
+                393,
+                396
+            ],
+            [
+                398,
+                399
+            ],
+            [
+                401,
+                402
+            ],
+            [
+                403,
+                403
+            ],
+            [
+                405,
+                411
+            ],
+            [
+                413,
+                418
+            ],
+            [
+                420,
+                420
+            ],
+            [
+                422,
+                427
+            ],
+            [
+                429,
+                431
+            ],
+            [
+                433,
+                435
+            ],
+            [
+                437,
+                442
+            ],
+            [
+                443,
+                443
+            ],
+            [
+                445,
+                449
+            ],
+            [
+                451,
+                459
+            ],
+            [
+                461,
+                465
+            ],
+            [
+                467,
+                469
+            ],
+            [
+                471,
+                481
+            ],
+            [
+                483,
+                489
+            ],
+            [
+                490,
+                490
+            ]
+        ],
+        "golden-entity-mentions": [
+            {
+                "id": "AFP_ENG_20030304.0250-E30-36",
+                "type": "NOM",
+                "entity-type": "ORG:Media",
+                "start": 0,
+                "end": 1,
+                "span": [
+                    357,
+                    369
+                ],
+                "extracted-span": [
+                    357,
+                    369
+                ],
+                "text": "Radio station",
+                "extracted-text": "Radio station"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E30-35",
+                "type": "NAM",
+                "entity-type": "ORG:Media",
+                "start": 0,
+                "end": 2,
+                "span": [
+                    357,
+                    374
+                ],
+                "extracted-span": [
+                    357,
+                    374
+                ],
+                "text": "Radio station DXDC",
+                "extracted-text": "Radio station DXDC"
+            },
+            {
+                "id": "AFP_ENG_20030304.0250-E29-31",
+                "type": "NOM",
+                "entity-type": "PER:Group",
+                "start": 19,
+                "end": 19,
+                "span": [
+                    451,
+                    459
+                ],
+                "extracted-span": [
+                    451,
+                    459
+                ],
+                "text": "officials",
+                "extracted-text": "officials"
+            }
+        ],
+        "golden-event-mentions": [
+            {
+                "id": "AFP_ENG_20030304.0250-EV7-1",
+                "event_type": "Life:Die",
+                "trigger": {
+                    "start": 5,
+                    "end": 5,
+                    "text": "death",
+                    "span": [
+                        387,
+                        391
+                    ],
+                    "extracted-text": "death",
+                    "extracted-span": [
+                        387,
+                        391
+                    ]
+                },
+                "arguments": []
+            }
+        ]
+    }
+]

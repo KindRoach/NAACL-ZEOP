@@ -1,0 +1,186 @@
+{
+    "Movement.Transport": [
+        [
+            "And these bozos let four armed Cubans land on our shores when they're trying to make a high terrorist alert",
+            "land",
+            [
+                8,
+                13,
+                20
+            ],
+            [
+                [
+                    "And these bozos let four armed Cubans land on our shores when they're trying to make a high terrorist alert",
+                    [
+                        1827,
+                        1933
+                    ]
+                ],
+                "Movement",
+                "Transport",
+                [
+                    "land",
+                    [
+                        1865,
+                        1868
+                    ]
+                ],
+                [
+                    [
+                        "four armed Cubans",
+                        "Person",
+                        [
+                            1847,
+                            1863
+                        ]
+                    ],
+                    [
+                        "these bozos",
+                        "Agent",
+                        [
+                            1831,
+                            1841
+                        ]
+                    ],
+                    [
+                        "our shores",
+                        "Destination",
+                        [
+                            1873,
+                            1882
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region",
+            "deploy",
+            [
+                6,
+                10,
+                15
+            ],
+            [
+                [
+                    "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region",
+                    [
+                        162,
+                        245
+                    ]
+                ],
+                "Movement",
+                "Transport",
+                [
+                    "deploy",
+                    [
+                        187,
+                        192
+                    ]
+                ],
+                [
+                    [
+                        "17,000 U.S. Army soldiers",
+                        "Person",
+                        [
+                            194,
+                            218
+                        ]
+                    ],
+                    [
+                        "the Persian Gulf region",
+                        "Destination",
+                        [
+                            223,
+                            245
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ],
+    "Personnel.Elect": [
+        [
+            "He lost an election to a dead man",
+            "election",
+            [
+                4,
+                5,
+                8
+            ],
+            [
+                [
+                    "He lost an election to a dead man",
+                    [
+                        719,
+                        751
+                    ]
+                ],
+                "Personnel",
+                "Elect",
+                [
+                    "election",
+                    [
+                        730,
+                        737
+                    ]
+                ],
+                [
+                    [
+                        "a dead man",
+                        "Person",
+                        [
+                            742,
+                            751
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "Paul, as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office",
+            "elected",
+            [
+                22,
+                4,
+                25
+            ],
+            [
+                [
+                    "Paul, as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office",
+                    [
+                        1141,
+                        1282
+                    ]
+                ],
+                "Personnel",
+                "Elect",
+                [
+                    "elected",
+                    [
+                        1259,
+                        1265
+                    ]
+                ],
+                [
+                    [
+                        "who",
+                        "Person",
+                        [
+                            1252,
+                            1254
+                        ]
+                    ],
+                    [
+                        "public office",
+                        "Position",
+                        [
+                            1270,
+                            1282
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}
