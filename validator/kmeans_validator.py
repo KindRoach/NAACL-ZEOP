@@ -27,7 +27,7 @@ class KmeansValidator(BaseValidator):
 
         event_types = [e.type_id for e in events]
         event_vectors = torch.cat(event_vectors).cpu()
-        return numpy.array(event_types), event_vectors.numpy()
+        return event_vectors.numpy(), numpy.array(event_types)
 
     def eval(self):
         metrics = self.eval_unseen()

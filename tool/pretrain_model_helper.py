@@ -27,7 +27,7 @@ def load_tokenizer(bert_model: BertModelEnum):
 def load_bert(bert_model: BertModelEnum, for_mask: bool = False):
     model_class = BertForMaskedLM if for_mask else BertModel
     # download from internet
-    # tokenizer = model_class.from_pretrained(bert_model.value)
+    # return model_class.from_pretrained(bert_model.value)
 
     # use local model
     path = ROOT_DIR.joinpath(MODEL_DIR % bert_model.value).__str__()
