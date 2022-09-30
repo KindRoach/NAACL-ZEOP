@@ -35,7 +35,7 @@ class KmeansValidator(BaseValidator):
         return metrics
 
     def eval_unseen(self):
-        actual_labels, vectors = self.encode_event(self.unseen_events)
+        vectors, actual_labels = self.encode_event(self.unseen_events)
         random_seed = self.model.config.random_seed
         random_seed = random_seed if random_seed else 2021
         kmeans = KMeans(n_clusters=self.model.config.unseen_type_num, random_state=random_seed).fit(vectors)
